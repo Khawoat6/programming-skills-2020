@@ -5,7 +5,7 @@
 | **Week**  | **Content** | **Cheklist** |
 | :-------------: | :------------- | :-------------: |
 | 1  |  Basic Problems | _Completed_ |
-| 2  |  Adhoc |
+| 2  |  Adhoc | _Completed_ |
 | 3  |  Adhoc |
 | 4  |  Adhoc |
 | `_5_`  |  `_Exam#1_` |
@@ -28,7 +28,11 @@
 | 1_Nsum1  |  100 |
 | 1_Corner_Digits  |  100  |
 | 1_Closest_Prime  |  100 |
-
+| 2_Robot1000  |  100 |
+| 2_Tax  |  100 |
+| 2_Grading  |  100 |
+| 2_SwapBits  |  100 |
+| `__รวม__`  |  `__40/40 คะแนน__` |
 
 #### Score & Grading
 | **Content**  | **Percent** |
