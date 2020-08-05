@@ -6,7 +6,7 @@
 | :-------------: | :------------- | :-------------: |
 | 1  |  Basic Problems | _Completed_ |
 | 2  |  Adhoc | _Completed_ |
-| 3  |  Adhoc |
+| 3  |  Adhoc | _Completed_ |
 | 4  |  Adhoc |
 | `_5_`  |  `_Exam#1_` |
 | 6  |  Array |
@@ -32,6 +32,10 @@
 | 2_Tax  |  100 |
 | 2_Grading  |  100 |
 | 2_SwapBits  |  100 |
+| 3_Domino  |  100 |
+| 3_PlusMinus  |  100 |
+| 3_Robot1000s  |  90 |
+| 4_Trucks  |  100 |
 | `__รวม__`  |  `__40/40 คะแนน__` |
 
 #### Score & Grading
