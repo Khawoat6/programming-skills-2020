@@ -36,6 +36,7 @@
 | 3_PlusMinus  |  100 |
 | 3_Robot1000s  |  90 |
 | 4_Trucks  |  100 |
+| 4_Cola  |  50 |
 | `__รวม__`  |  `__40/40 คะแนน__` |
 
 #### Score & Grading
